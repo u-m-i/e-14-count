@@ -1,0 +1,18 @@
+{
+  "status*": {
+    "nodes": [
+      {
+      "idTransmissionCode":"2956418",
+      "numberStand":"004",
+      "expectedName":"9824162e36b0966175731ed2ea2ba01b81d9b984254dfb06b1cd1c9b6c14e535.pdf",
+      "idTransmissionCodeStatus":3,
+      "idCorporationCode":"001",
+      "idStand":"169900148",
+      "standCode":"16",
+      "idZoneCode":"99",
+      "idDepartmentCode":"48",
+      "municipalityCode":"001"
+      }
+    ]
+  }
+}
